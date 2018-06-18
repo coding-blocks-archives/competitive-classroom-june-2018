@@ -1,0 +1,8 @@
+- Aggresive Cows
+- CB Scholarship
+- Kth Root
+- Upper and Lower Bound
+- PRATA
+- Codejam18 - Bit Party(Round1B)
+- Segment Trees Basics(RMQ)
+- BRCKTS(Spoj)

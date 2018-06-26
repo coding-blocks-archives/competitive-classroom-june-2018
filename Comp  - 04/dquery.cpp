@@ -2,7 +2,7 @@
 #include<cmath>
 using namespace std;
 #define ll long long
-ll seg[2000000],arr[2000000],pos[2000000];
+ll seg[2000000],arr[2000000],pos[2000000],ans[2000000];
 vector<pair<ll,ll> > vec[2000000];
 void update(ll st,ll l,ll r,ll in,ll v)
 {
@@ -49,6 +49,8 @@ int main()
 	{
 		ll l,r;
 		cin>>l>>r;
+		l--;
+		r--;
 		vec[r].push_back(make_pair(l,i));
 	}
 	memset(pos,-1,sizeof(pos));

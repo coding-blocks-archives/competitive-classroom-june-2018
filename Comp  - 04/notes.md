@@ -11,4 +11,5 @@
 
 - DQUERY
 - Spoj
+- KQUERY (2 approcahes)
 
